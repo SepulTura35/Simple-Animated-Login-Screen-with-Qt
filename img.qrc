@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/apple.png</file>
+        <file>img/loading.gif</file>
+    </qresource>
+</RCC>

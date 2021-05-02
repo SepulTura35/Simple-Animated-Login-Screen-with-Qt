@@ -21,7 +21,7 @@ MainWindow::MainWindow(QWidget *parent)
     ui->logo->setVisible(false);
 
 
-    //fade in / fade out effect;
+    //custom shader effect
     CustomShadowEffect *bodyShadow = new CustomShadowEffect();
     bodyShadow->setBlurRadius(20.0);
     bodyShadow->setDistance(6.0);
